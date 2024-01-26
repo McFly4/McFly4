@@ -42,14 +42,23 @@
 
 </p>
 
+<br/>
+<br/>
+
+
 ## 📚 Wanna work with me ? 
 
 - Malt : https://www.malt.fr/profile/matthieuroman
 - 💬 Ask me about anything, I am happy to help
 
+<br/>
+<br/>
+
+
+
 ## 📊 This week I spent my time on
 <!--START_SECTION:waka-->
-
+   
 ```txt
 TypeScript   3 hrs 24 mins   ████████████░░░░░░░░░░░░░   48.65 %
 JSON         2 hrs 14 mins   ████████░░░░░░░░░░░░░░░░░   32.04 %
@@ -60,13 +69,17 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
- 
+<br/>
+<br/>
 
-   ## 📈 Github Stats
+## 📈 Github Stats
 <div style="display: flex;">
 <img src="https://github-readme-stats.vercel.app/api?username=McFly4&show_icons=true&theme=dracula" alt="matthieuRoman" />
 <img style="margin-left: 50px" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=McFly4&hide=html,&hide_border=true&title_color=C20094&text_color=FFF&bg_color=0D1117&layout=donut">
 </div>
+
+<br/>
+<br/>
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=McFly.McFly4)
