@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Liquid Template   10 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   36.41 %
-TypeScript        10 hrs 2 mins   ████████▓░░░░░░░░░░░░░░░░   35.19 %
-Liquid            3 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
-CSS               3 hrs 10 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-JSON              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
+Liquid Template   10 hrs 31 mins  █████████░░░░░░░░░░░░░░░░   35.82 %
+TypeScript        9 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   32.76 %
+Liquid            4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+CSS               3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+JSON              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
