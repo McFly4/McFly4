@@ -60,11 +60,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        12 hrs 23 mins  ███████████████████░░░░░░   75.40 %
-CSS               3 hrs 11 mins   █████░░░░░░░░░░░░░░░░░░░░   19.43 %
-.env file         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-JavaScript        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-yarn.lock         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+TypeScript       11 hrs 1 min    ███████████████████░░░░░░   76.32 %
+CSS              3 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+JavaScript       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+.env file        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
