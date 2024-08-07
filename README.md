@@ -60,8 +60,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 54 mins    ███████████████████████▒░   92.76 %
-.env file    8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
